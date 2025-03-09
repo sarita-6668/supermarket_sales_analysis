@@ -3,7 +3,7 @@ In this project, I analyzed extensive supermarket sales data using MySQL Workben
 
 Key Findings:
 ✅ Total Revenue & Top-Selling Branch: Identified the highest revenue-generating branch, providing insights into regional sales distribution.
-✅ Customer Segmentation: Analyzed sales distribution between member and normal customers to optimize marketing and loyalty programs.
+✅ Customer Segmentation: Analyzed sales distribution between members and normal customers to optimize marketing and loyalty programs.
 ✅ Top Grossing Product Line: Determined which product line generates the most income to enhance profitability strategies.
 ✅ Pricing Strategies: Calculated the average unit price by branch to understand regional price preferences.
 ✅ Payment Preferences: Found the most popular payment method, helping refine payment processing strategies.
