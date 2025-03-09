@@ -13,4 +13,4 @@ Key Findings:
 ✅ Tax Collection & Gender Analysis: Analyzed the total tax collected by gender to gain insights into spending patterns.
 
 Business Impact:
-These insights can help supermarkets optimize marketing campaigns, improve inventory management, enhance pricing strategies, and refine customer engagement efforts, ultimately leading to increased revenue and business growth.
+These insights can help supermarkets optimize marketing campaigns, improve inventory management, enhance pricing strategies, and refine customer engagement efforts, leading to increased revenue and business growth.
